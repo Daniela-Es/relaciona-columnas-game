@@ -1,0 +1,9 @@
+.iconoBusqueda {
+    width: 20vw;
+}
+
+.respuestas img {cursor: zoom-in;}
+
+#preguntas li{
+    height: 150px;
+}
